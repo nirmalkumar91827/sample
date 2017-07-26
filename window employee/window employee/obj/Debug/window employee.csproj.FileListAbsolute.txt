@@ -1,0 +1,9 @@
+F:\Nirmalkumar\window employee\window employee\bin\Debug\window employee.exe.config
+F:\Nirmalkumar\window employee\window employee\bin\Debug\window employee.exe
+F:\Nirmalkumar\window employee\window employee\bin\Debug\window employee.pdb
+F:\Nirmalkumar\window employee\window employee\obj\Debug\window_employee.Form1.resources
+F:\Nirmalkumar\window employee\window employee\obj\Debug\window_employee.Properties.Resources.resources
+F:\Nirmalkumar\window employee\window employee\obj\Debug\window employee.csproj.GenerateResource.Cache
+F:\Nirmalkumar\window employee\window employee\obj\Debug\window employee.exe
+F:\Nirmalkumar\window employee\window employee\obj\Debug\window employee.pdb
+F:\Nirmalkumar\window employee\window employee\obj\Debug\window employee.csprojResolveAssemblyReference.cache
