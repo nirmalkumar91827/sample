@@ -1,0 +1,9 @@
+F:\Nirmalkumar\textfile save\textfile save\bin\Debug\textfile save.exe.config
+F:\Nirmalkumar\textfile save\textfile save\bin\Debug\textfile save.exe
+F:\Nirmalkumar\textfile save\textfile save\bin\Debug\textfile save.pdb
+F:\Nirmalkumar\textfile save\textfile save\obj\Debug\textfile save.csprojResolveAssemblyReference.cache
+F:\Nirmalkumar\textfile save\textfile save\obj\Debug\textfile_save.Form1.resources
+F:\Nirmalkumar\textfile save\textfile save\obj\Debug\textfile_save.Properties.Resources.resources
+F:\Nirmalkumar\textfile save\textfile save\obj\Debug\textfile save.csproj.GenerateResource.Cache
+F:\Nirmalkumar\textfile save\textfile save\obj\Debug\textfile save.exe
+F:\Nirmalkumar\textfile save\textfile save\obj\Debug\textfile save.pdb
